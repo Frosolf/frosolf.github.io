@@ -20,10 +20,10 @@
 /* Imports */
   /* Required no editing */
   /* Original & from netox005's NB3 style and failchon */
-@import url("https://netox005.github.io/Dubtrack/css/chatright.css"); /* Chat completely to the right */
+@import url("https://github.netux.ml/css/chatright.css"); /* Chat completely to the right */
+@import url("https://github.netux.ml/css/skynet.css"); /* Netox's bot prefs */
+@import url("https://github.netux.ml/css/animations.css"); /* NB3 animations */
 @import url("https://netox005.github.io/Dubtrack/css/videosmall.css"); /* Small video */
-@import url("https://netox005.github.io/Dubtrack/css/skynet.css"); /* Netox's bot prefs */
-@import url("https://netox005.github.io/Dubtrack/css/animations.css"); /* NB3 animations */
 @import url("https://frosolf.github.io/colorfix.css"); /* Removes double ranking and icons */
   /* Additions by @heebeejeebees */
 @import url("https://hebgbs.github.io/nullstuff.css"); /* Contributions by @null */
