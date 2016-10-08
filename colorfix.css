@@ -103,3 +103,8 @@
 ul.avatar-list li.user-fi p.dubs:before, ul.avatar-list li.user-jinkx p.dubs:before, ul.avatar-list li.user-surreal p.dubs:before, ul.avatar-list li.user-pikachu p.dubs:before, ul.avatar-list li.user-law p.dubs:before {
     display:none;
 }
+
+/* Fixes Dj role color */
+#player-controller .left ul li.infoContainer .infoContainerInner .currentDJSong.mod .username {
+	color: #3083FF !important;
+}
