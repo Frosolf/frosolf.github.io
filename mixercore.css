@@ -126,6 +126,13 @@ SPAN.import-playlist,
 #chat .chat-container .chat-messages .chat-main li.mod .username {
 	color: #3083FF ;
 }
+#browser .browser-content .browser-content-main .nano .content-videos 
+#results_video_api .history-item .actions, #browser .browser-content .browser-content-main .nano .content-videos 
+#results_video_api .playlist-item .actions, #browser .browser-content .browser-content-main .nano .content-videos 
+#results_video_api .queue-item .actions, #browser .browser-content .browser-content-main .nano .content-videos 
+#results_video_api .search-item .actions {
+    background-color: rgb(50, 60, 83);
+}
   /* Colour for DubX button */
 .header-right-navigation .for IMG{
   filter: brightness(93.33%) !Important;
