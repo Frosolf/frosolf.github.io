@@ -452,6 +452,9 @@ A.dubup.voted,
 .loading-el-wrapper svg.uil-spin circle[fill="#00ffff"]{
   fill: rgb(74, 108, 143) !important;
 }
+#browser .browser-content {
+  left: -8rem;
+}
 
 #roomFormUpdate BUTTON.cancel:hover,
 .ui-slider-handle[style="left: 0%;"],
