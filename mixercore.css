@@ -126,6 +126,12 @@ SPAN.import-playlist,
 #chat .chat-container .chat-messages .chat-main li.mod .username {
 	color: #3083FF ;
 }
+
+#addToPlaylistFloatContainer .create-playlist-input {
+    border-top: 1px solid rgb(238, 238, 238);
+    border-bottom: 1px solid rgb(238, 238, 238);
+}
+
 #browser .browser-content .browser-content-main .nano .content-videos 
 #results_video_api .history-item .actions, #browser .browser-content .browser-content-main .nano .content-videos 
 #results_video_api .playlist-item .actions, #browser .browser-content .browser-content-main .nano .content-videos 
