@@ -354,6 +354,7 @@ A.close-menu,
 .playerPreview,
 .playerPreview .close{
   background-color: rgba(30, 41, 66, 0.80) !Important;
+  z-index: 10;	
 }
 #header-global{
   background-color: rgba(30, 41, 66, 0.90) !Important;
