@@ -552,6 +552,7 @@ padding: .7rem 1.5rem
 }
 #addToPlaylistFloatContainer .create-playlist-header{
   border-bottom: 1px solid rgb(29, 69, 110) !important;
+  background-color: rgb(30, 41, 66);
 }
 
 #new-message-input{
