@@ -770,5 +770,5 @@ HEADER FIGURE,
 #main-loading .spinner,
 .chat-option-buttons i,
 .playerPreview:not(:hover) .close{
-  display: none !Important;
+  display: inline !Important;
 }
