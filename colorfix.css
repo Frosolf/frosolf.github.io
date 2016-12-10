@@ -95,7 +95,7 @@
 }
 
 /* Change color of DUBX VIP rank in Room users list */
-#main_avatar_room #avatar #main-user-list-room #avatar-list .user-pikachu p.username {
+#main_avatar_room #avatar #main-user-list-room #avatar-list [...] p.username {
     color: #33CCFF !important;
 }
 
