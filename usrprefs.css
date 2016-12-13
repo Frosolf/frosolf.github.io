@@ -137,3 +137,9 @@ LI.user-5607ef7e424a6203007d4fbe  .username,
 #avatar-list LI.user-5607ef7e424a6203007d4fbe  .username:after{
     color:rgb(218, 0, 0) !important;
 }
+/* Stitch */   
+LI.user-56957e7b17cfc91300602c14  .username,
+#avatar-list LI.user-56957e7b17cfc91300602c14  .username,
+#avatar-list LI.user-56957e7b17cfc91300602c14  .username:after{
+    color:#778cff !important;
+}
