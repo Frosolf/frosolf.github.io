@@ -1,6 +1,13 @@
 /* 32 x 32 */
-#header-global H1{
-  background-image: url(http://puu.sh/oxweA/1983612b25.png) !important;
+.header-center-logo a {
+    background: url(http://puu.sh/sOePZ/b55ed4ad09.png) !important;
+    width: 2.5rem !important;
+    height: 2.5rem !important;
+    margin-top: 9px !important;
+}
+a img {
+    display: none;
+}
                     /* Site icon */
 }
 /* 16 : 9 */
