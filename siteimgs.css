@@ -5,8 +5,8 @@
     height: 2.5rem !important;
     margin-top: 9px !important;
 }
-a img {
-    display: none;
+.header-center-logo img{
+    visibility: hidden
 }
                     /* Site icon */
 }
