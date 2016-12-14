@@ -16,12 +16,6 @@
 
 /* Background colour */
 #main_player,
-.chat_tools,
-#chat LI,
-.pusher-chat-widget-input,
-.avatar_tools,
-#main_avatar_room LI,
-.chat-option-header,
 .chat-option-buttons SPAN{
   background-color: rgba(30, 41, 66, 0.80) !important;
 }
@@ -30,18 +24,13 @@
 }
   /* Color-match the below with the above */
     /* Bottom filler */
-#chat LI:last-child,
-#avatar-list LI:last-child{
-  box-shadow: 0 1500px 0 1500px rgba(30, 41, 66, 0.80) !Important;
-}
+/
     /* Bottom for user list */
 #main_avatar_room{
   border-bottom: 16px solid rgba(30, 41, 66, 0.80) !important;
 }
     /* Background hack for options */
-.chat-options {
-    background-image: linear-gradient(to bottom, transparent 50px, rgba(30, 41, 66, 0.80) 50px, rgba(30, 41, 66, 0.80) 100%) !Important;
-}
+/
 /* Positioning and sizing */
 #chat .chat-welcome-message,
 #chat .system,
@@ -183,7 +172,7 @@ LI[class^='user'].deleted-message{
 /* Remove / Hide other stuff */
   /* Hide right-side colour (enables selective user colouring) */
 .right_section{
-  background-color: transparent !important;
+  background-color: rgba(30, 41, 66, 0.80) !important;
 }
   /* Chat padding */
 #chat UL,
