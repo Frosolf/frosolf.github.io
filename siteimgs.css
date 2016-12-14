@@ -8,6 +8,10 @@
 .header-center-logo img{
     visibility: hidden
 }
+#jetman640stoolsdiv span{
+    left: 7px;
+    position: relative;
+}
                     /* Site icon */
 }
 /* 16 : 9 */
