@@ -175,7 +175,7 @@ SPAN.import-playlist,
 .co-owner .username,
 .isCo-owner .username,
 .co-owner .username:after{
-  color: rgb(180, 201, 222) !Important;
+  color: #FF007F !Important;
 }
 #chat .chat-container .chat-messages .chat-main li.co-owner .user-role, 
 #chat .chat-container .chat-messages .chat-main li.co-owner .username, 
