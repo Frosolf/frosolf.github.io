@@ -144,5 +144,5 @@ LI.user-56957e7b17cfc91300602c14  .username,
     color:#778cff !important;
 }
 /* make people pleb again */
-li.user-56698980850a4b130025abcc .user-role-icon, 
+li.user-56698980850a4b130025abcc span.user-role-icon, 
 li.user-56698980850a4b130025abcc .user-role{display:none !important; }
