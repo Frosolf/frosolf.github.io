@@ -146,3 +146,6 @@ LI.user-56957e7b17cfc91300602c14  .username,
 /* make people pleb again */
 li.user-56698980850a4b130025abcc span.user-role-icon, 
 li.user-56698980850a4b130025abcc .user-role{display:none !important; }
+
+LI.user-55ffe2e0196f170300cc1037 span.user-role-icon, 
+LI.user-55ffe2e0196f170300cc1037 .user-role{display:none !important; }
