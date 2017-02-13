@@ -50,7 +50,7 @@
 
 /* Change color of RDJ rank when hover over the name */
 #chat .chat-container .chat-messages .chat-main li.resident-dj .user-role, #chat .chat-container .chat-messages .chat-main li.resident-dj .username {
-    color: #33CCF1 !important;
+    color: #33CCF1;
 }
 
 /* Change color of MANAGER rank in Room users list */
