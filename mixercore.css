@@ -821,3 +821,11 @@ color: rgb( 238, 238, 238);
 .dubplus-menu-header {
 border-bottom: 1px solid rgb( 238,238,238);
 }
+
+#chat .pusher-chat-widget-input .nc-container .tip-container span {
+    visibility: hidden;
+}
+
+#chat .pusher-chat-widget-input .nc-container ul li:hover {
+    background-color: rgb(50, 60, 83);
+}
