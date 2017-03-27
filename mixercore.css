@@ -771,3 +771,49 @@ HEADER FIGURE,
 .playerPreview:not(:hover) .close{
   display: inline !Important;
 }
+/* DubPlus */
+.dubplus-menu{
+	background-color: rgb(30, 41, 66);
+}
+
+.dubplus-switch-on .dubplus-switcher {
+    background: rgb(238, 238, 238);
+    border: 2px solid rgb(238, 238, 238);
+}
+
+.dubplus-switcher {
+	background: rgb(238, 238, 238);
+}
+
+.dubplus-menu-section-header {
+border-bottom: 1px solid rgb(50, 60, 83);
+background-color: rgb(50, 60, 83);
+}
+
+.dubplus-menu-section {
+	border-bottom: 1px solid rgb(238, 238, 238);
+}
+
+#dp-modal-confirm {
+background: rgb(50, 60, 83);
+}
+
+#dp-modal-cancel {
+    background: rgb(50, 60, 83);
+}
+
+.dp-modal-buttons button {
+	border: 5px solid rgb(30, 41, 66);
+}
+
+.dp-modal .content {
+	padding: 10px 0;
+}
+
+dp-modal-buttons {
+	padding-bottom: 10px;
+}
+
+.dubplus-menu-icon .fa {
+color: rgb( 238, 238, 238);
+}
