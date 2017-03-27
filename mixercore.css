@@ -817,3 +817,7 @@ dp-modal-buttons {
 .dubplus-menu-icon .fa {
 color: rgb( 238, 238, 238);
 }
+
+.dubplus-menu-header {
+border-bottom: 1px solid rgb( 238,238,238);
+}
