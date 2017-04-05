@@ -355,7 +355,7 @@ A.close-menu{
   background-color: rgba(30, 41, 66, 0.70) !important;
 }
 #browser .content-videos LI{
-  background-color: none;
+  background-color: transparent !important;
 }
 #browser .browser-content 
 .browser-content-main 
