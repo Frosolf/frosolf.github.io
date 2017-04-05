@@ -351,11 +351,21 @@ A.dubdown:hover SPAN,
   background-color: rgba(30, 41, 66, 0.60) !important;
 }
 .for_content,
-A.close-menu,
-#browser .content-videos LI{
+A.close-menu{
   background-color: rgba(30, 41, 66, 0.70) !important;
 }
-
+#browser .content-videos LI{
+  background-color: none;
+}
+#browser .browser-content 
+.browser-content-main 
+.nano 
+.content-videos 
+#results_video_api 
+.browserPlaylistItems {
+    padding-bottom: 78%;
+    background-color: rgba(30, 41, 66, 0.70);
+}
 #addToPlaylistFloatContainer,
 .playerPreview,
 .playerPreview .close{
