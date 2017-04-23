@@ -1,11 +1,18 @@
 /* Hide the Ranking in the Room users list of resident-dj */
+#main_avatar_room #main-user-list-room #avatar-list li.resident-dj .username::before,
 #main_avatar_room #main-user-list-room #avatar-list li.resident-dj p.username:after {
-	content:""!important;
+	display: none!important;
+}
+
+/* Hide the Ranking in the Room users list of VIP */
+#main_avatar_room #main-user-list-room #avatar-list li.vip .username::before {
+    display: none !important;
 }
 
 /* Hide the Ranking in the Room users list of mods */
+#main_avatar_room #main-user-list-room #avatar-list li.mod p.username:before,
 #main_avatar_room #main-user-list-room #avatar-list li.mod p.username:after {
-	content:""!important;
+	display: none!important;
 }
 
 /* Hide the Ranking in the Room users list of currentDJ */
@@ -22,9 +29,11 @@
 	display:none;
 }
 
-/* Hide the Ranking in the Room users list of managers */
+/* Hide the Ranking in the Room users list of managers/co-owner */
+#main_avatar_room #main-user-list-room #avatar-list li.creator .username::before,
+#main_avatar_room #main-user-list-room #avatar-list li.manager .username::before,
 #main_avatar_room #main-user-list-room #avatar-list li.manager p.username:after {
-	content:""!important;
+	display: none !important;
 }
 
 /* Hide the icons in the Room users list of all rankins/users */
