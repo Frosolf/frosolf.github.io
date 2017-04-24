@@ -58,7 +58,7 @@
 }
 /* Color VIP */
 #chat .chat-container .chat-messages .chat-main li.vip .username{
-    color:#29A3A3
+    color:#29A3A3 !important
 }
 /* Change color of RDJ rank when hover over the name */
 #chat .chat-container .chat-messages .chat-main li.resident-dj .user-role, #chat .chat-container .chat-messages .chat-main li.resident-dj .username {
