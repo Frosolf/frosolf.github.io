@@ -103,6 +103,10 @@
 }
 
 /* User preferences */
+  /* IKEA */
+#chat .chat-container ul.chat-main li.user-56cb6b73e85e1f1c0170f10a .stream-item-content .activity-row .username {
+    color: rgb(74, 108, 143) !important;
+}
   /* heebeejeebees */
 LI.user-560338dfb585d003001b2b09 .username,
 #avatar-list LI.userid-560338dfb585d003001b2b09 .username{
@@ -149,3 +153,6 @@ li.user-56698980850a4b130025abcc .user-role{display:none !important; }
 
 LI.user-55ffe2e0196f170300cc1037 span.user-role-icon, 
 LI.user-55ffe2e0196f170300cc1037 .user-role{display:none !important; }
+
+#chat .chat-container ul.chat-main li.user-56cb6b73e85e1f1c0170f10a .stream-item-content .activity-row .username:hover::after,
+#chat .chat-container ul.chat-main li.user-56cb6b73e85e1f1c0170f10a .stream-item-content .activity-row .username::before {display:none !important;}
