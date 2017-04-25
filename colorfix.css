@@ -60,11 +60,13 @@
 #chat .chat-container .chat-messages .chat-main li.vip .username{
     color:#29A3A3 !important
 }
-/* Change color of RDJ rank when hover over the name */
+/* Change color of RDJ rank when hover over the name + icon*/
 #chat .chat-container .chat-messages .chat-main li.resident-dj .user-role, #chat .chat-container .chat-messages .chat-main li.resident-dj .username {
     color: #33CCF1 !important;
 }
-
+#main_avatar_room #main-user-list-room #avatar-list li.resident-dj .username::before, #chat .chat-container ul.chat-main li.resident-dj .stream-item-content .activity-row .username::before {
+    content: url(https://puu.sh/vvUD5/78164c2b79.png) !important;
+}
 /* Change color of MANAGER rank in Room users list */
 .manager .username {
     color: #7fff32 !important;
