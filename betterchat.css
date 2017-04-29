@@ -209,3 +209,9 @@ LI.deleted-message{
 #chat .chat-container .chat-messages .chat-main {
   overflow: visible !important;
 }
+#chat .chat-main li[class*="system"] {
+    color: darkturquoise !important;
+    text-align: center;
+    border-top: darkturquoise 1px solid !important;
+    border-bottom: darkturquoise 1px solid !important;
+}
