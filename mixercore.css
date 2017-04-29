@@ -624,14 +624,6 @@ SPAN.import-playlist.icon-inbox,
 #browser .music-type-dropdown SPAN:last-child{
   border-radius: 0px 0px 8px 8px !Important;
 }
-  /* Faux-borders */
-#avatar-list LI.updub{
-  box-shadow: inset 0px 0px 0px 1px rgb(50, 60, 83) !Important;
-}
-
-#avatar-list LI.downdub{
-  box-shadow: inset 0px 0px 0px 1px rgb(255, 45, 49) !Important;
-}
 
 /* Position and sizing */
 #private-messages .search-results:before{
