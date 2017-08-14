@@ -57,6 +57,7 @@
     color: #33CCFF !important;
 }
 /* Color VIP */
+#chat:not(.role-colors-disabled) .chat-container .chat-messages .chat-main li.vip .username *,
 #chat .chat-container .chat-messages .chat-main li.vip .user-role,
 #chat .chat-container .chat-messages .chat-main li.vip .username{
     color:#29A3A3!important
