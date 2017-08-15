@@ -1,4 +1,5 @@
 /* Hide the Ranking in the Room users list of resident-dj */
+#chat .chat-container .chat-messages ul.chat-main li.resident-dj .stream-item-content .activity-row .username .user-role-icon,
 #main_avatar_room #main-user-list-room #avatar-list li.resident-dj .username::before,
 #main_avatar_room #main-user-list-room #avatar-list li.resident-dj p.username:after {
 	display: none!important;
